@@ -14,6 +14,8 @@ A deep learning-based tool for detecting plant diseases from leaf images. Upload
 - **Unknown Detection:** Returns "Unknown or Uncertain" if the model is not confident.
 - **Easy Deployment:** Run locally with minimal setup.
 
+
+document is real please believe
 ---
 
 ## 🖼️ Example Classes
