@@ -17,7 +17,7 @@ A deep learning-based tool for detecting plant diseases from leaf images. Upload
 ---
 
 ## 🖼️ Example Classes
-
+jdjehuu56755858576473737374nndpwiwe
 - Potato___Early_blight
 - Potato___healthy
 - Potato___Late_blight
