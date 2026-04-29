@@ -9,6 +9,14 @@ A deep learning-based tool for detecting plant diseases from leaf images. Upload
 ## 🚀 Features
 
 - **Model:** Fine-tuned ResNet18, trained on 15 plant disease classes.
+
+
+
+
+
+
+
+
 - **Web App:** Streamlit interface for easy image upload and diagnosis.
 - **CLI:** Command-line interface for batch or scripted predictions.
 - **Unknown Detection:** Returns "Unknown or Uncertain" if the model is not confident.
